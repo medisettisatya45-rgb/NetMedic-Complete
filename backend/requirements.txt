@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+Flask-Cors>=4,<6
+psutil>=5.9,<8
+dnspython>=2.4,<3
